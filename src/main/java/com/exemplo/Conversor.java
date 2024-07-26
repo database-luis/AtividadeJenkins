@@ -1,3 +1,5 @@
+package src.main.java.com.exemplo;
+
 public class Conversor {
     
     // Método para converter Fahrenheit para Celsius
